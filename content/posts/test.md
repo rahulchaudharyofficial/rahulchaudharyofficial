@@ -10,3 +10,5 @@ author = "Rahul Chaudhary"
 ### So buckle up and keep an eye on this space!
 
 In process of setting up the ground work to make this space meaningful. Expecting some fireworks around {{ .Date }}
+
+-- Fingers Crossed
