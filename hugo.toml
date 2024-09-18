@@ -1,0 +1,4 @@
+baseURL = 'http://rahulchaudhary.in/'
+languageCode = 'en-us'
+title = 'Rahul Chaudhary Official'
+theme = "PaperMod"
