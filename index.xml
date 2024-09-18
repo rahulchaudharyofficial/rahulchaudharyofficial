@@ -15,7 +15,8 @@
       <guid>http://rahulchaudhary.in/posts/test/</guid>
       <description>&lt;h2 id=&#34;interesting-stuff-is-on-its-way&#34;&gt;Interesting stuff is on it&amp;rsquo;s way&lt;/h2&gt;
 &lt;h3 id=&#34;so-buckle-up-and-keep-an-eye-on-this-space&#34;&gt;So buckle up and keep an eye on this space!&lt;/h3&gt;
-&lt;p&gt;In process of setting up the ground work to make this space meaningful. Expecting some fireworks around {{ .Date }}&lt;/p&gt;</description>
+&lt;p&gt;In process of setting up the ground work to make this space meaningful. Expecting some fireworks around {{ .Date }}&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Fingers Crossed&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
